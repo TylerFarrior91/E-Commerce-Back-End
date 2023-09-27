@@ -13,6 +13,6 @@
 # description 
 This E-Commerce database is very user friendly, you can use Categories, Products, and tags. This project can used for any types of databases in the word, to keep up with your categories.
 
-#features
+# features
 ability to use this database to add/delete yo\our products and update your "tags"
 
