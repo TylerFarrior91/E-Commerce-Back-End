@@ -2,7 +2,7 @@
 
 # video link
 https://drive.google.com/file/d/1oYHHEEekHDzkw7ubIEglINL9kk2f9Z_g/view
-#instuctions 
+# instuctions 
 1. Run "mySQL" command.
 2. Use "source schema.sql"command.
 3. exit SQL command.
